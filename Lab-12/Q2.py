@@ -1,4 +1,3 @@
-# Write a program that implements a Matrix class and performs addition, multiplication and transpose operations on 3x3 matrices.
 class Matrix:
     def __init__(self, elements):
         self.elements = elements
