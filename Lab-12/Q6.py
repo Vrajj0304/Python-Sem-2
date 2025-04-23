@@ -1,5 +1,3 @@
-# Write a program to create a class Date that has a list containing day, month and year attributes. Define an overloaded == operator to compare two Date objects.
-
 class Date:
     def __init__(self, day, month, year):
         self.day = day
