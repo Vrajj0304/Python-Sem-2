@@ -1,14 +1,3 @@
-"""
-Implement a String class containing the following functions:
-
-a. Overloaded += operator function to perform string concatenation
-
-b. Method toLower() to convert upper case letters to lower case.
-
-c. Method toUpper() to convert lower case letters to upper case.
-"""
-
-
 class String:
     def __init__(self, value):
         self.value = value
