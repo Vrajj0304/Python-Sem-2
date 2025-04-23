@@ -1,4 +1,3 @@
-# Write a program that creates and uses a Time class to perform various time arithmetic operations.
 class Time:
     def __init__(self, hours=0, minutes=0, seconds=0):
         self.hours = hours
