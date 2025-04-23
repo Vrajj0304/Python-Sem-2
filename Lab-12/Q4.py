@@ -1,5 +1,3 @@
-# Write a program to create a class that can calculate the perimeter/circumference and area of a regular shape. The class should also have a provision to accept the data relevant to the shape
-
 class Shape:
     def __init__(self, shape_type, *dimensions):
         self.shape_type = shape_type
